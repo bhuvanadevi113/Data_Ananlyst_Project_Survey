@@ -1,5 +1,6 @@
 # Data_Ananlyst_Project_Survey
 This is a data visualization dashboard summarizing the results of a "Data Professional Survey." Here's a breakdown of the key insights displayed:
+ <img width="658" alt="image" src="https://github.com/user-attachments/assets/b7e797ce-5162-48bc-9871-d56fa30b2837">
 ## Country of Responders:
   Most respondents are from the United States (261), followed by "Other" (224) and India (73). Other countries, like the UK and Canada, also contribute.
 ## Favorite Programming Language:
@@ -14,6 +15,5 @@ This is a data visualization dashboard summarizing the results of a "Data Profes
   But not satisfied with Salary  and salary Satisfaction is Lower at 4.27/10.
 ## Difficulty to Break Into Data:
   "Difficult" and "Very Difficult" make up a significant portion of responses, highlighting challenges in entering the data profession.
-        <img width="658" alt="image" src="https://github.com/user-attachments/assets/b7e797ce-5162-48bc-9871-d56fa30b2837">
-  
+         
   If you have specific questions about this dashboard or need help interpreting or improving it, let me know!
